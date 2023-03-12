@@ -17,9 +17,9 @@ namespace Blog.Service.Services.Concrete
         {
             this.unitOfWork = unitOfWork;
         }
-        public Task<List<Article>> GetAllArticlesAsync()
+        public async Task<List<Article>> GetAllArticlesAsync()
         {
-            
+            return await unitOfWork.GetRepository<Article>().GetAllAsync();
         }
     }
 }
