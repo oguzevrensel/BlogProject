@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+1yu+hO9Wn2eOvttxSAT4bzslpRnQ/e6HXOXVjlSC8VnW7E0b0AsJ8qaR2xZF78SLFzXoeUjxT9iUQ5aqV8qKA==",
+  "dgSpecHash": "psdOFJbAkiXR2lPoDFBgbNiUHbCya5BCpjYgUYqyWtGKTQCrAZzWVr8NwoefdKOCYLJdXjUynnszdO1u3VdKbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Oğuz\\Desktop\\DiplomProject\\Blog\\Blog.Service\\Blog.Service.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Oğuz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Oğuz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Oğuz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Oğuz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Oğuz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Oğuz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Oğuz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Oğuz\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Oğuz\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Oğuz\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
